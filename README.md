@@ -16,7 +16,7 @@ Flash the Kali image to your SD card using your preferred tool. I recommend usin
 
 ![image](https://github.com/user-attachments/assets/661c759c-7c6c-4dee-b1a2-fc96ec63da07)
 
-# 🐍 3. Download a Working Pwnagotchi Image:
+# 🤖 3. Download a Working Pwnagotchi Image:
 Download the working Pwnagotchi image that supports the Raspberry Pi Zero 2 W.
 The one used in this guide is:
 
