@@ -1,4 +1,4 @@
-# 🛠️ Enabling Monitor Mode on Raspberry Pi Zero 2 W with Pwnagotchi Firmware
+# 🛠️ Enabling Monitor Mode on Raspberry Pi Zero 2 W with Pwnagotchi Firmware (With packet injection working)
 
 This guide walks you through extracting working Wi-Fi firmware from a Pwnagotchi image and using it to enable monitor mode on Kali Linux running on a Raspberry Pi Zero 2 W.
 
